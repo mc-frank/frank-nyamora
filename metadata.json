@@ -1,0 +1,6 @@
+{
+  "name": "DEVINE CHURCH & CHILDREN CENTER",
+  "description": "DEVINE CHURCH & CHILDREN CENTER in Kisii, Kenya - caring for orphaned and vulnerable children with faith, food, healthcare, and education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
